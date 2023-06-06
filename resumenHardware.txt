@@ -1,0 +1,5 @@
+1. Memoria Ram
+
+2. Memoria ROM
+
+3. Memoria Cache

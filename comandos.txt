@@ -1,0 +1,233 @@
+ 1  pwd
+    2  cd ..
+    3  ls
+    4  pwd
+    5  dir
+    6  mkdir DH
+    7  ls
+    8  cd DH/
+    9  ls
+   10  mkdir repaso_clase1y2
+   11  ls
+   12  cd repaso_clase1y2/
+   13  cd ..
+   14  ls
+   15  mkdir repaso_clase1y2/historia_de_la_contabilidad
+   16  ls repaso_clase1y2/
+   17  cd repaso_clase1y2/
+   18  mkdir que_haremos_hoy servidores interfaces_de_usuario infraestructura
+   19  ls
+   20  ls
+   21  touch historia_de_la_contabilidad/repaso.a1
+   22  touch infraestructura/repaso.a2
+   23  touch interfaces_de_usuario/repaso.a3
+   24  touch que_haremos_hoy/repaso.a4
+   25  touch servidores/repaso.a5
+   26  cd ..
+   27  ls
+   28  ls -R DH
+   29  cd ..
+   30  ls -R DH
+   31  nano
+   32  touch README.md
+   33  git add .
+   34  cat ~/.ssh/id_rsa.pub
+   35  nano README.md
+   36  git add .
+   37  git commit -m "Primer commit"
+   38  git push -u origin master
+   39  eval "$(ssh-agent -s)"
+   40  git status
+   41  touch index.html
+   42  touch style.css
+   43  touch controller.js
+   44  none index.html
+   45  nano index.html
+   46  cls
+   47  clear
+   48  nano style.css
+   49  nano style.css
+   50  nano controller.js
+   51  git add .
+   52  git commit -m "commit Jose Caviedes"
+   53  git push origin main
+   54  git status
+   55  git pull origin main
+   56  clear
+   57  ls
+   58  git status
+   59  git add .
+   60  git commit -m "Actualización archivos txt"
+   61  git push origin main
+   62  git pull origin main
+   63  git pull origin main
+   64  git add .
+   65  git commit -m "Se agrega un span de ejemplo"
+   66  git push origin main
+   67  mkdir Entrega1
+   68  ls
+   69  cd Entrega1/
+   70  touch Readme.MD
+   71  ls
+   72  cd ..
+   73  ls
+   74  git init
+   75  git remote add origin https://github.com/JoseFCM/Mochila_Caviedes_Jose.git
+   76  git remote add origin https://github.com/JoseFCM/Mochila_Caviedes_Jose.git
+   77  git add .
+   78  git commit -m "Creación mochila"
+   79  git push -u origin master
+   80  git status
+   81  git status
+   82  git add .
+   83  git commit -m "Tarea 1 - Peliculas"
+   84  git push origin Master
+   85  git status
+   86  cd Git-Github/
+   87  touch ComandosBasicos.txt
+   88  mkdir mercadoAbierto
+   89  cd mercadoAbierto/
+   90  git init
+   91  touch productos.js
+   92  git status
+   93  git add productos.js
+   94  git status
+   95  git commit -m "mi primer commit"
+   96  git status
+   97  git clone https://github.com/JoseFCM/Mochila_Caviedes_Jose.git
+   98  cd Mochila_Caviedes_Jose/
+   99  touch app.js
+  100  git status
+  101  git add app.js
+  102  git status
+  103  clear
+  104  git commit -m "mi primer commit"
+  105  git status
+  106  git push origin master
+  107  git status
+  108  git status
+  109  git add .
+  110  git commit -m "Se eliminó app.js que era un ejemplo de un test"
+  111  git push origin master
+  112  git status
+  113  git init
+  114  git commit -m "First commit"
+  115  git branch -M main
+  116  git remote add origin https://github.com/JoseFCM/CV_JoseCaviedes.git
+  117  git push -u origin main
+  118  git init
+  119  git remote add origin https://github.com/JoseFCM/CV_JoseCaviedes.git
+  120  git push -u origin master
+  121  git add .
+  122  git commit -m "mi primer commit"
+  123  git push origin master
+  124  git status
+  125  git status
+  126  git add .
+  127  git commit -m "Se organiza las actividades en las correspondientes carpetas, se elimina la carpeta Entrega2"
+  128  git push origin master
+  129  git status
+  130  mkdir Primer_Examen_Caviedes_Jose
+  131  cd Primer_Examen_Caviedes_Jose/
+  132  mkdir La_terminal Git_github Estructura_de_las_computadoras Contabilidad Memorias Memorias2 Sistemas_operativos Procesos
+  133  touch registros.txt
+  134  cd Memorias
+  135  mkdir MemoriaSecundaria MemoriaPrincipal
+  136  touch ram.txt rom.txt registros.txt cache.txt ssd.txt dvd.txt disco_extraible.txt
+  137  ls -R
+  138  git init
+  139  git remote add origin https://github.com/JoseFCM/PrimerExamenII.git
+  140  git push origin -u master
+  141  git push origin -u main
+  142  git init
+  143  git add README.md
+  144  touch readme.md
+  145  git add .
+  146  git commit .m "readme añadido"
+  147  git commit -m "readme añadido"
+  148  git push origin Caviedes_Jose
+  149  git status
+  150  mkdir 200~20230605-JoseCaviedes
+  151  mkdir 20230605-JoseCaviedes
+  152  git init
+  153  git add .
+  154  git commit -m "Commit 01 de JoseCaviedes"
+  155  git remote add origin https://github.com/JoseFCM/20230605-JoseCaviedes.git
+  156  git push origin master
+  157  git status
+  158  git push -u origin master
+  159  git init
+  160  git init
+  161  git remote add origin https://github.com/JoseFCM/20230605-JoseCaviedes.git
+  162  git push -u origin master
+  163  git add .
+  164  git commit -m "Commit 01 de JoseCaviedes"
+  165  git push origin master
+  166  git add .
+  167  git init
+  168  git commit -m "Commit 01 de JoseCaviedes"
+  169  git remote add https://github.com/JoseFCM/20230605-JoseCaviedes.git
+  170  git init
+  171  git commit -m "Commit 01 de JoseCaviedes"
+  172  git remote add origin
+  173  git init
+  174  git commit -m "Commit 01 de JoseCaviedes"
+  175  git remote add origin https://github.com/JoseFCM/20230605-JoseCaviedes.git
+  176  git push origin master
+  177  git push -u origin master
+  178  git branch -M main
+  179  git status
+  180  git init
+  181  git commit -m "Commit 01 de JoseCaviedes"
+  182  git branch -M main
+  183  git remote add origin https://github.com/JoseFCM/20230605-JoseCaviedes.git
+  184  git push -u origin main
+  185  git push origin main
+  186  git init
+  187  git status
+  188  git commit -m "commit 01 de JoseCaviedes"
+  189  git remote add origin https://github.com/JoseFCM/20230605-JoseCaviedes.git
+  190  git push origin master
+  191  git push origin -u master
+  192  git pull origin master
+  193  git remote add origin https://github.com/JoseFCM/20230605-JoseCaviedes.git
+  194  git init
+  195  git add .
+  196  git commit -m "Commit 01 de JoseCaviedes"
+  197  git remote add origin https://github.com/JoseFCM/20230605-JoseCaviedes.git
+  198  git push -u origin master
+  199  git status
+  200  git log
+  201  git commit -m "Commit 01 de JoseCaviedes"
+  202  git log
+  203  touch comandos.txt main.js index.html
+  204  git init
+  205  git add .
+  206  git commit -m "commit 01 de JoseCaviedes"
+  207  git log
+  208  git remote add origin https://github.com/JoseFCM/20230605-JoseCaviedes.git
+  209  git push -u origin master
+  210  git status
+  211  git checkout -b feature
+  212  mkdir Hardware Software SeguridadInformatica
+  213  cd Hardware/touch resumen.txt
+  214  cd Hardware/
+  215  touch resumen.txt
+  216  cd ..
+  217  cd Software/
+  218  touch resumen.txt
+  219  cd ..
+  220  cd SeguridadInformatica/
+  221  touch resumen.txt
+  222  cd ..
+  223  git status
+  224  git add .
+  225  git commit -m "Commit 02 de JoseCaviedes"
+  226  git push origin feature
+  227  git status
+  228  git checkout master
+  229  mv main.js resumenHardware.txt
+  230  mv index.html resumenSoftware.txt
+  231  nano resumenSoftware.txt
+  232  nano resumenHardware.txt
+  233  history
